@@ -1,0 +1,19 @@
+{
+  "name": "GitHub",
+  "description": "An easy icon to launch Github from the Chrome New Tab page",
+  "version": "1.0",
+  "icons": {
+    "128": "128.png"
+  },
+  "app": {
+    "urls": [
+      "https://github.com/"
+    ],
+    "launch": {
+      "web_url": "https://github.com/"
+    }
+  },
+  "optional_permissions": [
+    "background"
+  ]
+}
